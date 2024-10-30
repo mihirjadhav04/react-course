@@ -1,8 +1,8 @@
-# React Learning Journey
+# React Learning Journey 
 
 This README documents the start of my journey learning React, focusing on fundamental concepts, hands-on practice, and small projects to build a strong foundation in modern web development.
 
-## Course Overview
+## Short Course Overview
 
 **Course:** Complete Web Development with React  
 **Platform:** Udemy  
