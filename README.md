@@ -12,24 +12,29 @@ This README documents the start of my journey learning React, focusing on fundam
 ## Course Modules
 
 1. **Introduction to React**
+
    - What is React, and why use it?
    - Overview of JSX, Components, and the Virtual DOM
 
 2. **Setting Up the Development Environment**
+
    - Installing Node.js and npm
    - Creating a new React app using `create-react-app`
    - Introduction to React folder structure and key files
 
 3. **React Basics**
+
    - Functional Components vs. Class Components
    - Props and State
    - Handling Events in React
 
 4. **React Router**
+
    - Setting up navigation between pages
    - Working with `react-router-dom` to manage URLs
 
 5. **Hooks and Context**
+
    - Introduction to React Hooks (useState, useEffect)
    - Using Context API for state management
 
@@ -40,6 +45,7 @@ This README documents the start of my journey learning React, focusing on fundam
 ## Development Setup
 
 1. **Requirements:**
+
    - Node.js
    - npm (Node Package Manager)
    - Basic knowledge of JavaScript, HTML, and CSS
@@ -68,4 +74,4 @@ This README documents the start of my journey learning React, focusing on fundam
 
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [MDN Web Docs](https://developer.mozilla.org/)
-- [Udemy Course Link](<course-link>)
+- [Udemy Course Link](course-link)
